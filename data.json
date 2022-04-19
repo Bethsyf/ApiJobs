@@ -1,0 +1,196 @@
+{
+    "data": [
+    {
+      "id": 1,
+      "img": "https://res.cloudinary.com/dvcxyjkko/image/upload/v1644374701/reto1-sprint2/photosnap_digqd4.svg",
+      "title1": [
+        "Photosnap"
+      ],
+      "title2": [
+        "NEW!"
+      ],
+      "title3": [
+        "FEATURED"
+      ],
+      "paragraph": "Senior Frontend Developer",
+      "li1": "1d ago",
+      "li2": "Full Time",
+      "li3": "USA only",
+      "funcion": [
+        "Frontend",
+        "Senior",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": 2,
+      "img": "https://res.cloudinary.com/dvcxyjkko/image/upload/v1644374693/reto1-sprint2/manage_emstru.svg",
+      "title1": [
+        "Manage"
+      ],
+      "title2": [
+        "NEW!"
+      ],
+      "title3": [
+        "FEATURED"
+      ],
+      "paragraph": "Fullstack Developer",
+      "li1": "1d ago",
+      "li2": "Part Time",
+      "li3": "Remote",
+      "funcion": [
+        "Fullstack",
+        "Midweight",
+        "Phyton",
+        "React"
+      ]
+    },
+    {
+      "id": 3,
+      "img": "https://res.cloudinary.com/dvcxyjkko/image/upload/v1644374661/reto1-sprint2/account_lbgm8m.svg",
+      "title1": [
+        "Account"
+      ],
+      "title2": [
+        "NEW!"
+      ],
+      "paragraph": "Junior Frontend Developer",
+      "li1": "2d ago",
+      "li2": "Part Time",
+      "li3": "USA only",
+      "funcion": [
+        "Frontend",
+        "Junior",
+        "React",
+        "Sass",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": 4,
+      "img": "https://res.cloudinary.com/dvcxyjkko/image/upload/v1644374697/reto1-sprint2/myhome_z5v2u8.svg",
+      "title1": [
+        "MyHome"
+      ],
+      "paragraph": "Junior Frontend Developer",
+      "li1": "5d ago",
+      "li2": "Contract",
+      "li3": "USA only",
+      "funcion": [
+        "Frontend",
+        "Junior",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": 5,
+      "img": "https://res.cloudinary.com/dvcxyjkko/image/upload/v1644374689/reto1-sprint2/loop-studios_g2wrdi.svg",
+      "title1": [
+        "Loops Studios"
+      ],
+      "paragraph": "Software Engineer",
+      "li1": "1w ago",
+      "li2": "Full Time",
+      "li3": "Worldwide",
+      "funcion": [
+        "Fullstack",
+        "Midweight",
+        "JavaScript",
+        "Sass",
+        "Ruby"
+      ]
+    },
+    {
+      "id": 6,
+      "img": "https://res.cloudinary.com/dvcxyjkko/image/upload/v1644374674/reto1-sprint2/faceit_csricx.svg",
+      "title1": [
+        "FaceIt"
+      ],
+      "paragraph": "Junior Backend Developer",
+      "li1": "2w ago",
+      "li2": "Full Time",
+      "li3": "UK only",
+      "funcion": [
+        "Backend",
+        "Junior",
+        "Ruby",
+        "RoR"
+      ]
+    },
+    {
+      "id": 7,
+      "img": "https://res.cloudinary.com/dvcxyjkko/image/upload/v1644374707/reto1-sprint2/shortly_pjpesn.svg",
+      "title1": [
+        "Shortly"
+      ],
+      "paragraph": "Junior Developer",
+      "li1": "2w ago",
+      "li2": "Full Time",
+      "li3": "Worldwide",
+      "funcion": [
+        "Frontend",
+        "Junior",
+        "HTML",
+        "Sass",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": 8,
+      "img": "https://res.cloudinary.com/dvcxyjkko/image/upload/v1644374684/reto1-sprint2/insure_dhf3gu.svg",
+      "title1": [
+        "Insure"
+      ],
+      "paragraph": "Junior Frontend Developer",
+      "li1": "2w ago",
+      "li2": "Full Time",
+      "li3": "USA only",
+      "funcion": [
+        "Frontend",
+        "Junior",
+        "Vue",
+        "JavaScript",
+        "Sass"
+      ]
+    },
+    {
+      "id": 9,
+      "img": "https://res.cloudinary.com/dvcxyjkko/image/upload/v1644374669/reto1-sprint2/eyecam-co_ejpzbg.svg",
+      "title1": [
+        "Eyecam Co."
+      ],
+      "paragraph": "Full Stack Engineer",
+      "li1": "3w ago",
+      "li2": "Full Time",
+      "li3": "Worldwide",
+      "funcion": [
+        "Fullstack",
+        "Midweight",
+        "JavaScript",
+        "Django",
+        "Phyton"
+      ]
+    },
+    {
+      "id": 10,
+      "img": "https://res.cloudinary.com/dvcxyjkko/image/upload/v1644374713/reto1-sprint2/the-air-filter-company_tq5sjt.svg",
+      "title1": [
+        "The Air Company"
+      ],
+      "paragraph": "Front-end Dev",
+      "li1": "1mo ago",
+      "li2": "Part Time",
+      "li3": "Worldwide",
+      "funcion": [
+        "Frontend",
+        "Junior",
+        "React",
+        "Sass",
+        "JavaScript"
+      ]
+    }
+  ]
+}
